@@ -1,8 +1,8 @@
 # Flask-Blog
 
-Flask blog is an elegant web application for blogging. It was made using the Flask framework, HTML, CSS, and lots of python code.
+Flask blog is a robust web application for blogging. It was made using the Flask framework, HTML, CSS, and lots of python code.
 
-This project took 20 hours to complete, and involved the use of many advanced features. Authentication, Log In/Log Out functionality, Change of Username/Display Picture, Email/Password reset, Use of Databases, Routing, and many more. 
+This project took 20 hours to complete, and involved the use of several advanced features. Authentication, Log In/Log Out functionality, Change of Username/Display Picture, Email/Password reset, Use of Databases, Routing, and many more. 
 
 Users are able to Create, Read, Update and delete blog posts. 
 
